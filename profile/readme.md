@@ -25,7 +25,7 @@ func GetBio() Bio {
 		"- 👯 We're looking for -": "anyone who comes here and helps out lmao",
 		"- 🤔 Origin country ?":"",
 		"- 💬 Ask us about": "Any tech queries or if you have any issue about the project ( open a issue on the repo)  ",
-		"- 📫 How to reach us:": "join the discord server(https://discord.gg/v5fjSdKwr2)",
+		"- 📫 How to reach us:": "join the discord server (link in main page bio)",
 	}
 }
 ```
