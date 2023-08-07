@@ -1,46 +1,27 @@
-# Moopa
+## Moopa
 
-<h2 align="center">About us</h2>
+### About Us 
+<a href="https://moopa.live">Moopa</a> is an anime streaming website made possible by <a href="https://github.com/consumet">Consumet API</a> build with <a href="https://github.com/vercel/next.js/">NextJs</a> and <a href="https://github.com/tailwindlabs/tailwindcss">Tailwind</a> with a sleek and modern design that offers Anilist integration to help you keep track of your favorite anime series. Moopa is entirely free and does not feature any ads, making it a great option for you who want an uninterrupted viewing experience.
 
-```golang
-package main
+### Features 
+- Free ad-supported streaming service
+- Built in AniList sync for tracking Anime and Manga
+- Fast and Relieable performance
+- Sub and Dub Anime
+- Mobile responsive
+- Skip Op/Ed buttons
+- Active community for support and feature requests
+- Regular updates and improvements
 
-import (
-	"fmt"
-)
+### Contributing 
+Help us make Moopa even better for users like you! Interested in contributing? Read our guidelines and join our [Discord Server](https://discord.gg/v5fjSdKwr2) to get started.
 
-type Bio map[string]string
+### Support 
+If you encounter any issues or have any feature requests, please feel free to [open an issue](https://github.com/Ani-Moopa/Moopa/issues) on our GitHub repository. You can also get help from our community by joining our [Discord server](https://discord.gg/v5fjSdKwr2).
 
-func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
-}
+### Links 
+- [Website](https://moopa.live)
+- [Discord](https://discord.gg/v5fjSdKwr2)
 
-func GetBio() Bio {
-	return Bio{
-		"- ⚡ Quick bio:": "We are a group of Devs and Designers making this website for fun and learning cause we love to learn  ;)",
-		"- 🔭 we're currently working on": "Moopa the ad free anime streaming site and show the world our skills",
-		"- 🌱 We're currently using": "We use programming languages such as  JS , and tools like VS code and databases like postgresql ",
-		"- 👯 We're looking for -": "anyone who comes here and helps out lmao",
-		"- 🤔 Origin country ?":"",
-		"- 💬 Ask us about": "Any tech queries or if you have any issue about the project ( open a issue on the repo)  ",
-		"- 📫 How to reach us:": "join the discord server ",
-	}
-}
-```
-## Contact
-
-Thank You for passing by!!
-
-If you have any questions or feedback, please reach out to us at [contact@moopa.live](mailto:contact@moopa.live?subject=[Moopa]%20-%20Your%20Subject), or you can join our [discord sever](https://discord.gg/4xTGhr85BG).
-<br>
-
-[![Discord Banner](https://discordapp.com/api/guilds/822413263148285973/widget.png?style=banner2)](https://discord.gg/v5fjSdKwr2)
-
-
-
-
-
-
----
+### License 
+Moopa is licensed under the [MIT License](https://github.com/Ani-Moopa/Moopa/blob/main/LICENSE.md). By contributing to [Moopa](https://github.com/Ani-Moopa/Moopa/), you agree that your contributions will be licensed under the same terms.
