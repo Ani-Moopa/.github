@@ -29,7 +29,14 @@ func GetBio() Bio {
 	}
 }
 ```
-<h2 align="left">[discord](https://discord.gg/v5fjSdKwr2)</h2>
+## Contact
+
+Thank You for passing by!!
+
+If you have any questions or feedback, please reach out to us at [contact@moopa.live](mailto:contact@moopa.live?subject=[Moopa]%20-%20Your%20Subject), or you can join our [discord sever](https://discord.gg/4xTGhr85BG).
+<br>
+
+[![Discord Banner](https://discordapp.com/api/guilds/822413263148285973/widget.png?style=banner2)](https://discord.gg/v5fjSdKwr2)
 
 
 
