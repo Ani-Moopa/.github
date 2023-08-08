@@ -23,5 +23,5 @@ If you encounter any issues or have any feature requests, please feel free to [o
 - [Website](https://moopa.live)
 - [Discord](https://discord.gg/v5fjSdKwr2)
 
-### License 
+### License 🗒️
 Moopa is licensed under the [MIT License](https://github.com/Ani-Moopa/Moopa/blob/main/LICENSE.md). By contributing to [Moopa](https://github.com/Ani-Moopa/Moopa/), you agree that your contributions will be licensed under the same terms.
